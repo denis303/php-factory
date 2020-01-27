@@ -1,0 +1,9 @@
+{
+    "name": "denis303/php-factory",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis303\\Factory\\" : ""
+        }
+    }
+}
